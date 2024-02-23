@@ -1,2 +1,3 @@
 name: maycileigh.github.io/mayci-coursera-repository
-theme: jekyll-theme-merlot
+```yml
+    remote_theme: pages-themes/merlot@v0.2.0
